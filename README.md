@@ -1,3 +1,3 @@
 # Demo
 
-My readme file
+My readme file. It's wonderful.
